@@ -1,27 +1,27 @@
 <div align="center">
-<img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&width=435&lines=1337;luhux1337;Claire">
+<img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&width=435&lines=morin;marsilya;lary">
 </div>
 
 <div align="center">
-   <img width="25%" src="https://komarev.com/ghpvc/?username=utw0&color=070000">
+   <img width="25%" src="https://komarev.com/ghpvc/?username=morincik&color=070000">
 </div>
 <div align="center">
-    <a href="https://instagram.com/utkukosemm" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://open.spotify.com/user/aoj0e0b3twag42g0h8nxqm4ms?si=ce64f77da0864d47" target="_blank"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <a href="https://discord.gg/luppux" target="_blank"><img src="https://img.shields.io/badge/Discord-Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <a href="https://instagram.com/morinarda" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://open.spotify.com/user/31erq5gydugkm3cr3uciiyspg77y?si=e2a3347e493546ab" target="_blank"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="https://discord.gg/marsilya" target="_blank"><img src="https://img.shields.io/badge/Discord-Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
 
 ```js
-class luhux {
+class morin {
 constructor(options) {
-this.name = "Utku",
-this.age = 21,
-this.discord = "luhux",
-this.discordId = "341592492224806914"
+this.name = "Yiğit",
+this.age = 20,
+this.discord = "trendyolexpress",
+this.discordId = "692411581572841544"
   };
 }
-module.exports = luhux;
+module.exports = morin;
 ```
 #
 
