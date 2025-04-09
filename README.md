@@ -26,8 +26,8 @@ module.exports = morin;
 #
 
 <div align="center">
-  <img src="https://lanyard.kyrie25.me/api/<img ?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="45%" style="vertical-align: top;">
-  <img src="https://lanyard.kyrie25.me/api/<img ?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="45%" style="vertical-align: top;">
+  <img src="https://lanyard.eggsy.xyz/api/<img ?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="45%" style="vertical-align: top;">
+  <img src="https://lanyard.eggsy.xyz/api/<img ?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="45%" style="vertical-align: top;">
   <a href="https://instagram.com/morinarda">
 
   </a>
