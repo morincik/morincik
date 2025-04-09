@@ -26,8 +26,7 @@ module.exports = morin;
 #
 
 <div align="center">
-  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/94490510688792576)
-  <img src="https://lanyard.eggsy.xyz/api/<img ?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="45%" style="vertical-align: top;">
+  <a href="https://discord.com/users/692411581572841544"><img src="https://lanyard.cnrad.dev/api/692411581572841544?showDisplayName=true&hideDecoration=false&theme=dark" /></a>
   <a href="https://instagram.com/morinarda">
 
   </a>
